@@ -1,10 +1,10 @@
 {
-  "name": "HelperJS",
+  "name": "DecoHelper",
   "authors": [
     "boing6000 <boing6000@hotmail.com>"
   ],
   "description": "Contem os Helper utilizados nas aplicações AngularJS",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "main": [
 	"deco.helper.js"
   ],
