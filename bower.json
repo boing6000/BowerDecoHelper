@@ -1,0 +1,22 @@
+{
+  "name": "HelperJS",
+  "authors": [
+    "boing6000 <boing6000@hotmail.com>"
+  ],
+  "description": "Contem os Helper utilizados nas aplicações AngularJS",
+  "version": "0.0.4",
+  "main": [
+	"deco.helper.js"
+  ],
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
