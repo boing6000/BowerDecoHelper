@@ -4,9 +4,9 @@
     "boing6000 <boing6000@hotmail.com>"
   ],
   "description": "Contem os Helper utilizados nas aplicações AngularJS",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "main": [
-	"deco.helper.js"
+	"dist/deco.helper.js"
   ],
   "moduleType": [],
   "license": "MIT",
